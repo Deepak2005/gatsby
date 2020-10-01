@@ -145,21 +145,21 @@ Already have a Gatsby site? These handy guides will help you add the improvement
 - [Migrate a Gatsby site from v1 to v2](https://www.gatsbyjs.com/docs/migrating-from-v1-to-v2/)
 - Still on v0? Start here: [Migrate a Gatsby site from v0 to v1](https://www.gatsbyjs.com/docs/migrating-from-v0-to-v1/)
 
-## ❗ Code of Conduct
+## ❗ Code of Conduct.
 
 Gatsby is dedicated to building a welcoming, diverse, safe community. We expect everyone participating in the Gatsby community to abide by our [**Code of Conduct**](https://www.gatsbyjs.com/contributing/code-of-conduct/). Please read it. Please follow it. In the Gatsby community, we work hard to build each other up and create amazing things together. 💪💜
 
-## 🤝 How to Contribute
+## 🤝 How to Contribute?
 
 Whether you're helping us fix bugs, improve the docs, or spread the word, we'd love to have you as part of the Gatsby community! :muscle::purple_heart:
 
 Check out our [**Contributing Guide**](https://www.gatsbyjs.com/contributing/how-to-contribute/) for ideas on contributing and setup steps for getting our repositories up and running on your local machine.
 
-### A note on how this repository is organized
+### A note on how this repository is organized.
 
 This repository is a [monorepo](https://trunkbaseddevelopment.com/monorepos/) managed using [Lerna](https://github.com/lerna/lerna). This means there are [multiple packages](/packages) managed in this codebase, even though we publish them to NPM as separate packages.
 
-### Contributing to Gatsby v1
+### Contributing to Gatsby v1.
 
 We are currently only accepting bug fixes for Gatsby v1. No new features will be accepted.
 
